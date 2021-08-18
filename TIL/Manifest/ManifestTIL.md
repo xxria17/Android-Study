@@ -73,7 +73,8 @@ package에 **고유한 application ID** 지정
 
 <br>
 
-#### android:icon과 android:logo의 차이점은?
+**android:icon과 android:logo의 차이점은?**
+차이점은 모르겠지만 application 태그에 android:logo 안먹음. icon과 roundIcon만 적용됨.
 
 <br>
 
